@@ -1,0 +1,7 @@
+##################################
+#  Copyright HACKPRO TM © 2006   #
+# Configuration of Organize Code #
+##################################
+
+# Database Name.
+Database = Databasewithdata.mdb
